@@ -1,4 +1,4 @@
-# 🎬 Netflix-Movies-Data-Analysis-
+# 🎬 Netflix-Movies-Data-Analysis
 
 #### 📌 Project Overview
 This project explores a Netflix movie dataset by performing data cleaning, preprocessing, and visualization to extract meaningful insights about movie popularity, genres, and voting trends.
