@@ -4,10 +4,10 @@
 This project explores a Netflix movie dataset by performing data cleaning, preprocessing, and visualization to extract meaningful insights about movie popularity, genres, and voting trends.
 
 #### 🛠️ Technologies Used
-Python
-Pandas (Data manipulation)
-NumPy (Numerical operations)
-Matplotlib & Seaborn (Data visualization)
+* Python
+* Pandas (Data manipulation)
+* NumPy (Numerical operations)
+* Matplotlib & Seaborn (Data visualization)
 
 #### 📂 Dataset
 Contains 9,827 movies with attributes like title, release date, popularity, vote count, vote average, genres, and more.
